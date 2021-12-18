@@ -1,0 +1,20 @@
+{
+  "list": [
+    { "name": "圣诞树", "avator": "sd.png", "model": "sd.fbx" },
+    {
+      "name": "带小熊的卡车",
+      "avator": "Dump_truck_has_bear.png",
+      "model": "Dump_truck_has_bear.fbx"
+    },
+    {
+      "name": "卡车",
+      "avator": "Dump_truck_new.png",
+      "model": "Dump_truck_new.fbx"
+    },
+    {
+      "name": "头盔",
+      "avator": "DamagedHelmet.png",
+      "model": "DamagedHelmet.glb"
+    }
+  ]
+}
